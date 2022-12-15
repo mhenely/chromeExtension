@@ -1,0 +1,19 @@
+{
+  "name": "chromeExtension",
+  "manifest_version": 2,
+  "version": "1.0.0",
+  "description": "project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "author": "Matt Henely and Snow Xue Bai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3",
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.12.0"
+  }
+}

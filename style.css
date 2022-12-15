@@ -1,0 +1,15 @@
+#mainBox {
+  height: 100%;
+  width: 100%;
+  border: 1px solid;
+  float:right;
+  text-align: center;
+  background-color: green;
+}
+#container {
+  height: 100px;
+  width:200px;
+  border-style: solid;
+  border-width: 2px;
+  background-color: brown;
+}
